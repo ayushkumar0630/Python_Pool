@@ -1,0 +1,3 @@
+I have finished all four questions.
+I find the most interesting part is figuring out how to shuffle a list and generate random number in crypto security sense.
+Actually, I did a lot research on this part and learn a lot from python document which I never pay too much attention on.
